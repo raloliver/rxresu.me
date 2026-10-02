@@ -30,5 +30,35 @@
 	"typescript.experimental.useTsgo": true,
 	"[json]": {
 		"editor.defaultFormatter": "biomejs.biome"
-	}
+	},
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#bababa",
+		"activityBar.background": "#bababa",
+		"activityBar.foreground": "#15202b",
+		"activityBar.inactiveForeground": "#15202b99",
+		"activityBarBadge.background": "#7070cf",
+		"activityBarBadge.foreground": "#e7e7e7",
+		"activityBarTop.activeBackground": "#bababa",
+		"activityBarTop.background": "#bababa",
+		"activityBarTop.foreground": "#15202b",
+		"activityBarTop.inactiveForeground": "#15202b99",
+		"commandCenter.border": "#15202b99",
+		"commandCenter.foreground": "#15202b",
+		"sash.hoverBorder": "#bababa",
+		"statusBar.background": "#a1a1a1",
+		"statusBar.debuggingBackground": "#a1a1a1",
+		"statusBar.debuggingForeground": "#15202b",
+		"statusBar.foreground": "#15202b",
+		"statusBarItem.hoverBackground": "#878787",
+		"statusBarItem.remoteBackground": "#e7e7f7",
+		"statusBarItem.remoteForeground": "#15202b",
+		"titleBar.activeBackground": "#a1a1a1",
+		"titleBar.activeForeground": "#15202b",
+		"titleBar.inactiveBackground": "#a1a1a199",
+		"titleBar.inactiveForeground": "#15202b99",
+		"activityBar.activeBorder": "#15202b",
+		"activityBarTop.activeBorder": "#15202b",
+		"statusBar.inactiveBackground": "#a1a1a1"
+	},
+	"peacock.color": "a1a1a1"
 }
